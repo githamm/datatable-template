@@ -4,7 +4,7 @@ var google_docs_one = 'https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US
 var google_docs_two = '&output=html';
 
 // Google Docs spreadsheet key
-var spreadsheet_key = '1TzJ-yaUa3-UgbV944xXD1g7RQTKMOuzSNlPSAXVM2qE';
+var spreadsheet_key = '1hHJJmRBA1D6-g9wtfvnjvsndP-NxgyzOmFJBC8L2PPQ';
 
 // Template sources and what DIVs they will appear in
 var templates = [
@@ -74,10 +74,16 @@ function loadDataTable() {
         "aaSorting": [[ 0, "asc" ]],
         "aoColumns": [
            {
-                "sWidth": "50%"
+                "sWidth": "30%"
                 // "sType": "formatted-num" 
             },{
-                "sWidth": "50%"
+                "sWidth": "23%"
+                // "sType": "formatted-num" 
+            },{
+                "sWidth": "23%"
+                // "sType": "formatted-num" 
+            },{
+                "sWidth": "23%"
                 // "sType": "formatted-num" 
             }
         ],
