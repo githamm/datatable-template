@@ -22,8 +22,7 @@ table.dataTable thead th, table.dataTable tfoot th {
 	background-color: #777 !important;
 	color: #FFF !important;
 	border-bottom: 1px solid #555 !important;
-	padding: 4px 18px !important;
-	font-family: Georgia;
+	padding: 10px 10px !important;
 }
 
 table.dataTable thead {
